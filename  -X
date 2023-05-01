@@ -1,0 +1,16 @@
+HTTP/2 302 
+date: Mon, 01 May 2023 17:56:42 GMT
+content-type: text/plain; charset=utf-8
+content-length: 141
+server: AtlassianEdge
+atl-confluence-via: h:cc-frontend-ssr.eu-west-1.prod.atl-paas.net
+x-cc-frontend-ssr: prod-euwest;2023-04-28_21-24_ba189691a6
+location: /login?application=confluence&dest-url=%2Fwiki%2Fspaces%2F%7E62fe63585fc3a72bda94fc33%2Fpages%2F4455957025%2FAPI%2Bdocs
+vary: Accept, Accept-Encoding
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+atl-traceid: b0e926dde9477e26
+report-to: {"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}
+nel: {"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+
